@@ -11,10 +11,10 @@ playlist by [CAD CAM Tutorials by Venkat](https://www.youtube.com/@CAD_CAE_Tutor
 
 | # | Preview | Features Used |
 |---|---------|----------------|
-| 001 | ![](001.png) | Extrude, Hole, Fillet |
-| 002 | ![](002.png) | Extrude, Mirror, Hole, Fillet |
-| 003 | ![](003.png) | Extrude, Rib |
-| 004 | ![](004.png) | Extrude, Rib, Hole, Fillet |
+| 001 | ![](001.png?v=2) | Extrude, Hole, Fillet |
+| 002 | ![](002.png?v=2) | Extrude, Mirror, Hole, Fillet |
+| 003 | ![](003.png?v=2) | Extrude, Rib |
+| 004 | ![](004.png?v=2) | Extrude, Rib, Hole, Fillet |
 
 ## Notes
 
