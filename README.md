@@ -5,21 +5,29 @@ I learned at university, following the
 [Siemens NX Tutorials for Beginners](https://youtube.com/playlist?list=PLA2s9EGiTDWBuUE55TRoueZdhaFWxWSl4&si=f1oEJU5vasnyZvLU)
 playlist by [CAD CAM Tutorials by Venkat](https://www.youtube.com/@CAD_CAE_Tutorials) on YouTube.
 
-**Progress: 4 / 86**
+**Progress: 8 / 86**
 
 ## Models
 
-| # | Preview | Features Used |
-|---|---------|----------------|
-| 001 | ![](001.png?v=2) | Extrude, Hole, Fillet |
-| 002 | ![](002.png?v=2) | Extrude, Mirror, Hole, Fillet |
-| 003 | ![](003.png?v=2) | Extrude, Rib |
-| 004 | ![](004.png?v=2) | Extrude, Rib, Hole, Fillet |
+| # | Preview |
+|---|---------|
+| 001 | ![](001.png) |
+| 002 | ![](002.png) |
+| 003 | ![](003.png) |
+| 004 | ![](004.png) |
+| 005 | ![](005.png) |
+| 006 | ![](006.png) |
+| 007 | ![](007.png) |
+| 008 | ![](008.png) |
 
 ## Notes
 
-- Model 003 involved constraining a trapezoid symmetrically about a
-  centerline. The shape kept sliding left/right despite the symmetry
-  constraint — solved by adding a point at the midpoint of the top edge
-  and applying a coincident constraint between that point and the
-  centerline.
+- **Model 003** — Constrained a trapezoid symmetrically about a centerline,
+  but the shape kept sliding left/right despite the symmetry constraint.
+  Solved by adding a point at the midpoint of the top edge and applying
+  a coincident constraint between that point and the centerline.
+
+- **Model 006** — Using Revolve, Project Curve, and Thread.
+  Revolve was used to cut the screw head profile by rotating a sketch
+  around an axis. The thread termination
+  was handled separately with Extrude.
