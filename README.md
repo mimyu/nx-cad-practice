@@ -10,56 +10,56 @@ playlist by [CAD CAM Tutorials by Venkat](https://www.youtube.com/@CAD_CAE_Tutor
 ## Models
 
 ### 001
-![](001.png)
+![](images/001.png)
 
 ### 002
-![](002.png)
+![](images/002.png)
 
 ### 003
-![](003.png)
+![](images/003.png)
 Constrained a trapezoid symmetrically about a centerline, but the shape kept sliding left/right despite the symmetry constraint. Solved by adding a point at the midpoint of the top edge and applying a coincident constraint between that point and the centerline.
 
 ### 004
-![](004.png)
+![](images/004.png)
 
 ### 005
-![](005.png)
+![](images/005.png)
 
 ### 006
-![](006.png)
+![](images/006.png)
 Used Revolve, Project Curve, and Thread. Revolve was used to cut the screw head profile by rotating a sketch around an axis. The thread termination was handled separately with Extrude.
 
 ### 007
-![](007.png)
+![](images/007.png)
 
 ### 008
-![](008.png)
+![](images/008.png)
 
 ### 009
-![](009.png)
+![](images/009.png)
 
 ### 010
-![](010.png)
+![](images/010.png)
 
 ### 011
-![](011.png)
+![](images/011.png)
 First time using Sweep Along Guide. Sketched a curved centerline as the guide path, then swept a circular cross-section along it to create the pipe shape. This makes it straightforward to model pipes or tubes that follow a curved path.
 
 ### 011-1
-![](011-1.png)
+![](images/011-1.png)
 Cross-section view of model 011.
 
 ### 012
-![](012.png)
+![](images/012.png)
 
 ### 013
-![](013.png)
+![](images/013.png)
 
 ### 014
-![](014.png)
+![](images/014.png)
 
 ### 015
-![](015.png)
+![](images/015.png)
 
 ### 016
-![](016.png)
+![](images/016.png)
