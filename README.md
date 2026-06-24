@@ -5,7 +5,7 @@ I learned at university, following the
 [Siemens NX Tutorials for Beginners](https://youtube.com/playlist?list=PLA2s9EGiTDWBuUE55TRoueZdhaFWxWSl4&si=f1oEJU5vasnyZvLU)
 playlist by [CAD CAM Tutorials by Venkat](https://www.youtube.com/@CAD_CAE_Tutorials) on YouTube.
 
-**Progress: 12 / 86**
+**Progress: 16 / 86**
 
 ## Models
 
@@ -51,3 +51,15 @@ Cross-section view of model 011.
 
 ### 012
 ![](012.png)
+
+### 013
+![](013.png)
+
+### 014
+![](014.png)
+
+### 015
+![](015.png)
+
+### 016
+![](016.png)
